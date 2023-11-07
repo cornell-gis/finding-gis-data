@@ -32,6 +32,7 @@ Compiled by Keith Jenkins <kgj2@cornell.edu>, GIS Librarian at Cornell Unversity
   - Country-based shapefile downloads: <https://download.geofabrik.de/>
   - Search for specific features: <https://overpass-turbo.eu/>
   - Thematic extracts for city-sized areas: <https://export.hotosm.org/>
+  - OSM can sometimes be a good source for many of the types of data listed below.  What data it contains is usually very good quality, but it is not necessarily complete for a given area.
 
 ## Building footprints
   - OpenStreetMap has a lot of buildings, but can be incomplete for many areas
