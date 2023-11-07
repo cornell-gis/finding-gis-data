@@ -85,4 +85,4 @@ Compiled by Keith Jenkins <kgj2@cornell.edu>, GIS Librarian at Cornell Unversity
   - Whenever possible, download any documentation or metadata at the same time you download the data.
   - Often there are multiple sources for the same data -- put it all on a map and compare specific locations, in terms of geometries as well as attributes.  Pick the data source that seems best for your project.
   - Keep looking!  But also know when to give up -- the data may not exist.
-  - Feel free to ask for help if you get stuck: https://guides.library.cornell.edu/gis/help
+  - Feel free to ask for help if you get stuck: <https://guides.library.cornell.edu/gis/help>
