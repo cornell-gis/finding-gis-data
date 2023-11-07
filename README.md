@@ -4,6 +4,9 @@ Some general advice for searching the Internet for GIS data, and some recommenda
 
 Compiled by Keith Jenkins <kgj2@cornell.edu>, GIS Librarian at Cornell Unversity's Mann Library.  Updated 2023-11-07
 
+<https://cornell-gis.github.io/finding-gis-data/>
+
+
 ## Geolode
   - Start here: https://geolode.org/
   - Search/filter by place or broad topic
