@@ -8,7 +8,7 @@ Compiled by Keith Jenkins <kgj2@cornell.edu>, GIS Librarian at Cornell Unversity
 
 
 ## Geolode
-  - Start here: https://geolode.org/
+  - Start here: <https://geolode.org/>
   - Search/filter by place or broad topic
   - Global data is tagged as "Earth"
 
@@ -16,33 +16,33 @@ Compiled by Keith Jenkins <kgj2@cornell.edu>, GIS Librarian at Cornell Unversity
   - Try the obvious... search for something like: GIS data {placename}
   - Some places (like New York state) may have both a data website AND a geodata website
   - Data is created and managed at different administrative levels (country, state, county, city, etc.)
-  - Try both the city AND the county (example, https://geolode.org/?q=angeles )
+  - Try both the city AND the county (example, <https://geolode.org/?q=angeles> )
 
 ## Parcels
   - Often maintained at the county level, possibly state level.
   - There are many online map viewers that let you look at parcel boundaries and get info for specific addresses, but no way to download the whole dataset.
   - Sometimes there may be a separate website with downloadable data.  But other times, the county may only sell the data or may not make it available at all!
-  - Map viewer example: https://mapping-tompkins-tompkinscounty.hub.arcgis.com/
-  - Data download example: https://tcdata-tompkinscounty.opendata.arcgis.com/
-  - Statewide parcels: https://gis.ny.gov/parcels
+  - Map viewer example: <https://mapping-tompkins-tompkinscounty.hub.arcgis.com/>
+  - Data download example: <https://tcdata-tompkinscounty.opendata.arcgis.com/>
+  - Statewide parcels: <https://gis.ny.gov/parcels>
 
 ## OpenStreetMap
   - Most complete street dataset of the world (better than Google, Apple, Bing), but also has data for many other types of features.
-  - Preview the data at https://www.openstreetmap.org/
-  - Country-based shapefile downloads: https://download.geofabrik.de/
-  - Search for specific features: https://overpass-turbo.eu/
-  - Thematic extracts for city-sized areas: https://export.hotosm.org/
+  - Preview the data at <https://www.openstreetmap.org/>
+  - Country-based shapefile downloads: <https://download.geofabrik.de/>
+  - Search for specific features: <https://overpass-turbo.eu/>
+  - Thematic extracts for city-sized areas: <https://export.hotosm.org/>
 
 ## Building footprints
   - OpenStreetMap has a lot of buildings, but can be incomplete for many areas
   - Microsoft and Google have been using AI to extract building polygons from imagery
-  - Microsoft: https://github.com/microsoft/GlobalMLBuildingFootprints/#will-there-be-more-data-coming-for-other-geographies
-  - Google: https://sites.research.google/open-buildings/
+  - Microsoft: <https://github.com/microsoft/GlobalMLBuildingFootprints/#will-there-be-more-data-coming-for-other-geographies>
+  - Google: <https://sites.research.google/open-buildings/>
   - Some places may have their own building inventories.
 
 ## Boundaries
-  - GeoBoundaries has collected the best publically-available data for each country: https://www.geoboundaries.org/
-  - US Census Shapefiles: https://www.census.gov/cgi-bin/geo/shapefiles/
+  - GeoBoundaries has collected the best publically-available data for each country: <https://www.geoboundaries.org/>
+  - US Census Shapefiles: <https://www.census.gov/cgi-bin/geo/shapefiles/>
 
 ## Transportation
   - Streets are often maintained at the state level
@@ -50,28 +50,28 @@ Compiled by Keith Jenkins <kgj2@cornell.edu>, GIS Librarian at Cornell Unversity
   - OpenStreetMap is the best choice for many countries
 
 ## Landcover
-  - US NLCD (30m): https://www.mrlc.gov/data
-  - US Cropscape (30m): https://nassgeodata.gmu.edu/CropScape/ 
-  - GlobCover (300m): http://due.esrin.esa.int/page_globcover.php
-  - ESA WorldCover (10m): https://viewer.esa-worldcover.org/worldcover/
+  - US NLCD (30m): <https://www.mrlc.gov/data>
+  - US Cropscape (30m): <https://nassgeodata.gmu.edu/CropScape/> 
+  - GlobCover (300m): <http://due.esrin.esa.int/page_globcover.php>
+  - ESA WorldCover (10m): <https://viewer.esa-worldcover.org/worldcover/>
 
 ## Elevation
-  - US NED 30m and 10m: https://cugir.library.cornell.edu/?q=ned
-  - Global SRTM 90m: https://dwtkns.com/srtm/
-  - Global SRTM 30m: https://dwtkns.com/srtm30m/ (free NASA EarthData login required)
+  - US NED 30m and 10m: <https://cugir.library.cornell.edu/?q=ned>
+  - Global SRTM 90m: <https://dwtkns.com/srtm/>
+  - Global SRTM 30m: <https://dwtkns.com/srtm30m/> (free NASA EarthData login required)
   - Higher-resolution data (1m to 5m) is occasionally available for some localities
 
 ## Hydrography
-  - US NHD has streams, waterbodies, watersheds, etc: https://apps.nationalmap.gov/downloader/#/
+  - US NHD has streams, waterbodies, watersheds, etc: <https://apps.nationalmap.gov/downloader/#/>
 
 ## Business Points
-  - AllThePlaces has location data for specific restaurant/store chains, scraped from company websites: https://www.alltheplaces.xyz/
+  - AllThePlaces has location data for specific restaurant/store chains, scraped from company websites: <https://www.alltheplaces.xyz/>
   - To get point locations for all businesses in a given location, there are a couple websites that Cornell Library subscribes to.
-  - Simply Analytics: http://resolver.library.cornell.edu/misc/6168667
-  - Mergent Intellect: http://resolver.library.cornell.edu/misc/8058953
+  - Simply Analytics: <http://resolver.library.cornell.edu/misc/6168667>
+  - Mergent Intellect: <http://resolver.library.cornell.edu/misc/8058953>
 
 ## Infrastructure
-  - HIFLD has schools, hospitals, radio towers, rail crossings, public venues, etc.: https://hifld-geoplatform.opendata.arcgis.com/
+  - HIFLD has schools, hospitals, radio towers, rail crossings, public venues, etc.: <https://hifld-geoplatform.opendata.arcgis.com/>
   - Check HIFLD data for quality -- sometimes there are aggregation errors.  Sometimes local sources local sources are better or more recent.
 
 ## General advice
