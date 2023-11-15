@@ -58,8 +58,7 @@ Compiled by Keith Jenkins <kgj2@cornell.edu>, GIS Librarian at Cornell Unversity
 
 ## Elevation
   - US NED 30m and 10m: <https://cugir.library.cornell.edu/?q=ned>
-  - Global SRTM 90m: <https://dwtkns.com/srtm/>
-  - Global SRTM 30m: <https://dwtkns.com/srtm30m/> (free NASA EarthData login required)
+  - Global SRTM 30m: <https://srtm.csi.cgiar.org/srtmdata/>
   - Higher-resolution data (1m to 5m) is occasionally available for some localities
 
 ## Hydrography
