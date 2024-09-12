@@ -71,7 +71,7 @@ Compiled by Keith Jenkins <kgj2@cornell.edu>, GIS Librarian at Cornell Unversity
   - Mergent Intellect: <http://resolver.library.cornell.edu/misc/8058953>
 
 ## Infrastructure
-  - HIFLD has schools, hospitals, radio towers, rail crossings, public venues, etc.: <https://hifld-geoplatform.opendata.arcgis.com/>
+  - HIFLD has schools, hospitals, radio towers, rail crossings, public venues, etc.: <https://hifld-geoplatform.hub.arcgis.com/>
   - Check HIFLD data for quality -- sometimes there are aggregation errors.  Sometimes local sources local sources are better or more recent.
 
 ## General advice
