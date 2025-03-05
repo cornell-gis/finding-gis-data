@@ -58,8 +58,9 @@ Compiled by Keith Jenkins <kgj2@cornell.edu>, GIS Librarian at Cornell Unversity
 
 ## Elevation
   - US NED 30m and 10m: <https://cugir.library.cornell.edu/?q=ned>
-  - Global SRTM 30m: <https://srtm.csi.cgiar.org/srtmdata/>
-  - Higher-resolution data (1m to 5m) is occasionally available for some localities
+  - Global SRTM 90m: <https://srtm.csi.cgiar.org/srtmdata/>
+  - Global SRTM 30m: <https://dwtkns.com/srtm30m/> (NASA Earthdata login required)
+  - Higher-resolution data (1m to 5m) is occasionally available for some localities.  Many of these, plus global elevation datasets, can be found via: <https://opentopography.org/>
 
 ## Hydrography
   - US NHD has streams, waterbodies, watersheds, etc: <https://apps.nationalmap.gov/downloader/#/>
