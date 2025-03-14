@@ -67,9 +67,9 @@ Compiled by Keith Jenkins <kgj2@cornell.edu>, GIS Librarian at Cornell Unversity
 
 ## Business Points
   - AllThePlaces has location data for specific restaurant/store chains, scraped from company websites: <https://www.alltheplaces.xyz/>
-  - To get point locations for all businesses in a given location, there are a couple websites that Cornell Library subscribes to.
-  - Simply Analytics: <http://resolver.library.cornell.edu/misc/6168667>
-  - Mergent Intellect: <http://resolver.library.cornell.edu/misc/8058953>
+  - To get point locations for all businesses in a given location, there are a couple websites that Cornell Library subscribes to:
+      - Simply Analytics: <http://resolver.library.cornell.edu/misc/6168667>
+      - Mergent Intellect: <http://resolver.library.cornell.edu/misc/8058953>
 
 ## Infrastructure
   - HIFLD has schools, hospitals, radio towers, rail crossings, public venues, etc.: <https://hifld-geoplatform.hub.arcgis.com/>
