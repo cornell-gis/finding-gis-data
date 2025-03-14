@@ -73,7 +73,7 @@ Compiled by Keith Jenkins <kgj2@cornell.edu>, GIS Librarian at Cornell Unversity
 
 ## Infrastructure
   - HIFLD has schools, hospitals, radio towers, rail crossings, public venues, etc.: <https://hifld-geoplatform.hub.arcgis.com/>
-  - Check HIFLD data for quality -- sometimes there are aggregation errors.  Sometimes local sources local sources are better or more recent.
+  - Check HIFLD data for quality -- sometimes there are aggregation errors, as they compile this data from many different sources.  Sometimes local sources are better or more recent.
 
 ## General advice
   - For other types of data, try Geolode, then try Google.
