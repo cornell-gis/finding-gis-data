@@ -70,6 +70,7 @@ Compiled by Keith Jenkins <kgj2@cornell.edu>, GIS Librarian at Cornell Unversity
   - To get point locations for all businesses in a given location, there are a couple websites that Cornell Library subscribes to:
       - Simply Analytics: <http://resolver.library.cornell.edu/misc/6168667>
       - Mergent Intellect: <http://resolver.library.cornell.edu/misc/8058953>
+      - PolicyMap: <http://resolver.library.cornell.edu/misc/8068928> (demographic, economics, health data too)
 
 ## Infrastructure
   - HIFLD has schools, hospitals, radio towers, rail crossings, public venues, etc.: <https://hifld-geoplatform.hub.arcgis.com/>
