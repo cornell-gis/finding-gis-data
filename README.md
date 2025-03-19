@@ -2,7 +2,7 @@
 
 Some general advice for searching the Internet for GIS data, and some recommendations of top sites for specific types of data.
 
-Compiled by Keith Jenkins <kgj2@cornell.edu>, GIS Librarian at Cornell Unversity's Mann Library.  Updated 2025-03-14
+Compiled by Keith Jenkins <kgj2@cornell.edu> (GIS Librarian, Mann Library) and Jo Klein (Social Science Research and Spatial Data Librarian, Fine Arts Library)  Updated 2025-03-19
 
 <https://cornell-gis.github.io/finding-gis-data/>
 
