@@ -1,10 +1,10 @@
 # Finding GIS Data
 
 Some general advice for searching the Internet for GIS data, and some recommendations of top sites for specific types of data. \
-Updated 2025-03-19.
+Updated 2025-04-07.
 
-Compiled by Keith Jenkins <kgj2@cornell.edu> (GIS Librarian, Mann Library) \
-and Jo Klein <jo.klein@cornell.edu> (Social Science Research and Spatial Data Librarian, Fine Arts Library)
+Keith Jenkins <kgj2@cornell.edu> (GIS Librarian, Mann Library) \
+Jo Klein <jo.klein@cornell.edu> (Social Science Research and Spatial Data Librarian, Fine Arts Library)
 
 <https://cornell-gis.github.io/finding-gis-data/>
 
@@ -77,6 +77,11 @@ and Jo Klein <jo.klein@cornell.edu> (Social Science Research and Spatial Data Li
 ## Infrastructure
   - HIFLD has schools, hospitals, radio towers, rail crossings, public venues, etc.: <https://hifld-geoplatform.hub.arcgis.com/>
   - Check HIFLD data for quality -- sometimes there are aggregation errors, as they compile this data from many different sources.  Sometimes local sources are better or more recent.
+
+## ArcGIS Online
+  - ArcGIS Online hosts many commonly-used datasets, as well as more unique datasets.  Use the search at <https://arcgis.com/>
+  - Many datasets are tagged as "Authoritative" (typically from government sources) or "Living Atlas" (curated by Esri)
+  - Other datasets may be from random ArcGIS Online users -- be more cautious about these, and try to assess the legitimacy of the source.
 
 ## General advice
   - For other types of data, try Geolode, then try Google.
