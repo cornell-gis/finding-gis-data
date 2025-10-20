@@ -74,10 +74,6 @@ Jo Klein <jo.klein@cornell.edu> (Social Science Research and Spatial Data Librar
       - Mergent Intellect: <http://resolver.library.cornell.edu/misc/8058953>
       - PolicyMap: <http://resolver.library.cornell.edu/misc/8068928> (demographic, economics, health data too)
 
-## Infrastructure
-  - HIFLD has schools, hospitals, radio towers, rail crossings, public venues, etc.: <https://hifld-geoplatform.hub.arcgis.com/>
-  - Check HIFLD data for quality -- sometimes there are aggregation errors, as they compile this data from many different sources.  Sometimes local sources are better or more recent.
-
 ## ArcGIS Online
   - ArcGIS Online hosts many commonly-used datasets, as well as more unique datasets.  Use the search at <https://arcgis.com/>
   - Many datasets are tagged as "Authoritative" (typically from government sources) or "Living Atlas" (curated by Esri)
