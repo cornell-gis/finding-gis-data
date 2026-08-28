@@ -1,7 +1,7 @@
 # Finding GIS Data
 
 Some general advice for searching the Internet for GIS data, and some recommendations of top sites for specific types of data. \
-Updated 2025-10-20.
+Updated 2026-08-28.
 
 Keith Jenkins <kgj2@cornell.edu> (GIS Librarian, Mann Library) \
 Jo Klein <jo.klein@cornell.edu> (Social Science Research and Spatial Data Librarian, Fine Arts Library)
@@ -54,13 +54,12 @@ Jo Klein <jo.klein@cornell.edu> (Social Science Research and Spatial Data Librar
 
 ## Landcover
   - US NLCD (30m): <https://www.mrlc.gov/data>
-  - US Cropscape (30m): <https://nassgeodata.gmu.edu/CropScape/> 
+  - US Cropscape (30m): <https://nassgeodata.gmu.edu/CropScape/> (free login required)
   - GlobCover (300m): <http://due.esrin.esa.int/page_globcover.php>
   - ESA WorldCover (10m): <https://viewer.esa-worldcover.org/worldcover/>
 
 ## Elevation
   - US NED 30m and 10m: <https://cugir.library.cornell.edu/?q=ned>
-  - Global SRTM 90m: <https://srtm.csi.cgiar.org/srtmdata/>
   - Global SRTM 30m: <https://dwtkns.com/srtm30m/> (NASA Earthdata login required)
   - Higher-resolution data (1m to 5m) is occasionally available for some localities.  Many of these, plus global elevation datasets, can be found via: <https://opentopography.org/>
 
