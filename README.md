@@ -60,7 +60,7 @@ Jo Klein <jo.klein@cornell.edu> (Social Science Research and Spatial Data Librar
 
 ## Elevation
   - US NED 30m and 10m: <https://cugir.library.cornell.edu/?q=ned>
-  - Global SRTM 30m: <https://dwtkns.com/srtm30m/> (NASA Earthdata login required)
+  - Global SRTM 30m: <https://dwtkns.com/srtm30m/> (free NASA Earthdata login required)
   - Higher-resolution data (1m to 5m) is occasionally available for some localities.  Many of these, plus global elevation datasets, can be found via: <https://opentopography.org/>
 
 ## Hydrography
