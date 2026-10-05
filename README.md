@@ -60,7 +60,7 @@ Jo Klein <jo.klein@cornell.edu> (Social Science Research and Spatial Data Librar
 
 ## Landcover
   - US NLCD (30m): <https://www.mrlc.gov/data>
-  - US Cropscape (30m): <https://nassgeodata.gmu.edu/CropScape/> (free login required)
+  - US CropscapeCROS (30m): <https://nassgeodata.gmu.edu/CropScape/> (export as GeoDatabase)
   - GlobCover (300m): <http://due.esrin.esa.int/page_globcover.php>
   - ESA WorldCover (10m): <https://viewer.esa-worldcover.org/worldcover/>
 
@@ -95,3 +95,4 @@ Jo Klein <jo.klein@cornell.edu> (Social Science Research and Spatial Data Librar
   - Often there are multiple sources for the same data -- put it all on a map and compare specific locations, in terms of geometries as well as attributes.  Pick the data source that seems best for your project.
   - Keep looking!  But also know when to give up -- the data may not exist.
   - Feel free to ask for help if you get stuck: <https://guides.library.cornell.edu/gis/help>
+
