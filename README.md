@@ -1,7 +1,7 @@
 # Finding GIS Data
 
 Some general advice for searching the Internet for GIS data, and some recommendations of top sites for specific types of data. \
-Updated 2026-08-28.
+Updated 2026-10-05.
 
 Keith Jenkins <kgj2@cornell.edu> (GIS Librarian, Mann Library) \
 Jo Klein <jo.klein@cornell.edu> (Social Science Research and Spatial Data Librarian, Fine Arts Library)
@@ -46,6 +46,12 @@ Jo Klein <jo.klein@cornell.edu> (Social Science Research and Spatial Data Librar
 ## Boundaries
   - GeoBoundaries has collected the best publically-available data for each country: <https://www.geoboundaries.org/>
   - US Census Shapefiles: <https://www.census.gov/cgi-bin/geo/shapefiles/>
+
+## Demographic data
+  - Easy-to-use Census data from the latest American Community Survey (ACS) is downloadable as shapefiles from <https://censusreporter.org/>
+  - Census data is also available as shapefiles via a Cornell Library subscription to Simply Analytics: <http://resolver.library.cornell.edu/misc/6168667>
+  - Census data direct from the source: <https://data.census.gov/)>
+  - Historical Census data, 1790-present: <https://www.nhgis.org/>
 
 ## Transportation
   - Streets are often maintained at the state level
