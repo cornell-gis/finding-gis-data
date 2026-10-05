@@ -50,7 +50,7 @@ Jo Klein <jo.klein@cornell.edu> (Social Science Research and Spatial Data Librar
 ## Demographic data
   - Easy-to-use Census data from the latest American Community Survey (ACS) is downloadable as shapefiles from <https://censusreporter.org/>
   - Census data is also available as shapefiles via a Cornell Library subscription to Simply Analytics: <http://resolver.library.cornell.edu/misc/6168667>
-  - Census data direct from the source: <https://data.census.gov/)>
+  - Census data direct from the source: <https://data.census.gov/>
   - Historical Census data, 1790-present: <https://www.nhgis.org/>
 
 ## Transportation
@@ -95,4 +95,3 @@ Jo Klein <jo.klein@cornell.edu> (Social Science Research and Spatial Data Librar
   - Often there are multiple sources for the same data -- put it all on a map and compare specific locations, in terms of geometries as well as attributes.  Pick the data source that seems best for your project.
   - Keep looking!  But also know when to give up -- the data may not exist.
   - Feel free to ask for help if you get stuck: <https://guides.library.cornell.edu/gis/help>
-
